@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>More Foxes</name>
-  <author>HidingFox</author>
+  <author>hidingfox</author>
   <supportedVersions>
 	  <li>1.0</li>
 	  <li>1.1</li>
@@ -9,8 +9,9 @@
 	  <li>1.3</li>
 	  <li>1.4</li>
 	  <li>1.5</li>
+	  <li>1.6</li>
   </supportedVersions>
-  <packageId>HidingFox.MoreFoxes</packageId>
+  <packageId>hidingfox.MoreFoxes</packageId>
   <url></url>
   <description>
 
@@ -24,7 +25,7 @@
 
 
 	Translations provided by:
-		Russian - tzverg, HidingFox
+		Russian - tzverg, hidingfox
 		Polish - PestkaUwU
   </description>
 </ModMetaData>
