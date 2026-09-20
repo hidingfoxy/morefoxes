@@ -28,17 +28,17 @@
         <label>gray fox puppy</label>
         <labelPlural>gray fox puppies</labelPlural>
         <bodyGraphicData>
-          <texPath>Things/Pawn/Animal/Fox_Gray</texPath>
+          <texPath>Things/Pawn/Animal/Fox_Gray/Fox_Gray</texPath>
           <drawSize>1.0</drawSize>
         </bodyGraphicData>
         <dessicatedBodyGraphicData>
-          <texPath>Things/Pawn/Animal/Dessicated_Fox_Gray</texPath>
+          <texPath>Things/Pawn/Animal/Fox_Gray/Dessicated_Fox_Gray</texPath>
           <drawSize>1.0</drawSize>
         </dessicatedBodyGraphicData>
       </li>
       <li>
         <bodyGraphicData>
-          <texPath>Things/Pawn/Animal/Fox_Gray</texPath>
+          <texPath>Things/Pawn/Animal/Fox_Gray/Fox_Gray</texPath>
           <drawSize>1.2</drawSize>
           <shadowData>
             <volume>(0.25, 0.3, 0.25)</volume>
@@ -46,7 +46,7 @@
           </shadowData>
         </bodyGraphicData>
         <dessicatedBodyGraphicData>
-          <texPath>Things/Pawn/Animal/Dessicated_Fox_Gray</texPath>
+          <texPath>Things/Pawn/Animal/Fox_Gray/Dessicated_Fox_Gray</texPath>
           <drawSize>1.2</drawSize>
         </dessicatedBodyGraphicData>
       </li>
